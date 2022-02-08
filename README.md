@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+[![asdasd](https://images.credly.com/size/680x680/images/5c15c611-e2dc-44ad-b39e-503bed8804c7/LF_logobadge.png =10x10)](https://www.credly.com/badges/8d5a0f32-940e-4471-9f35-6e84e99b289f/public_url)
+
+
 <!--
 **pascal-sochacki/pascal-sochacki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
